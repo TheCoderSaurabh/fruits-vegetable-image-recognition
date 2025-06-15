@@ -44,14 +44,18 @@ Manual classification of fruits and vegetables in domains like retail, agricultu
 
 ---
 
+````markdown
 ## 📁 Folder Structure
 
-├── trainFruit.ipynb # Model training notebook
-├── test.ipynb # Prediction and testing notebook
-├── dataset/ # Training/testing image data
-├── saved_model/ # Trained model files
-├── images/ # Sample images for testing
-└── README.md # Project documentation
+```
+├── trainFruit.ipynb     # Model training notebook  
+├── test.ipynb           # Prediction and testing notebook  
+├── dataset/             # Training/testing image data  
+├── saved_model/         # Trained model files  
+├── images/              # Sample images for testing  
+└── README.md            # Project documentation  
+```
+
 
 ---
 
@@ -71,6 +75,8 @@ Manual classification of fruits and vegetables in domains like retail, agricultu
 
 4. **Test the model**
 - Use test.ipynb to load the saved model and make predictions on sample images.
+
+---
 
 ## 📊 Results
 
