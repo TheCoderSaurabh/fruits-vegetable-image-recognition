@@ -44,7 +44,6 @@ Manual classification of fruits and vegetables in domains like retail, agricultu
 
 ---
 
-````markdown
 ## 📁 Folder Structure
 
   ````markdown
