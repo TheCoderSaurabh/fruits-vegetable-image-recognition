@@ -47,14 +47,14 @@ Manual classification of fruits and vegetables in domains like retail, agricultu
 ````markdown
 ## 📁 Folder Structure
 
-```
-├── trainFruit.ipynb     # Model training notebook  
-├── test.ipynb           # Prediction and testing notebook  
-├── dataset/             # Training/testing image data  
-├── saved_model/         # Trained model files  
-├── images/              # Sample images for testing  
-└── README.md            # Project documentation  
-```
+  ````markdown
+  ├── trainFruit.ipynb     # Model training notebook  
+  ├── test.ipynb           # Prediction and testing notebook  
+  ├── dataset/             # Training/testing image data  
+  ├── saved_model/         # Trained model files  
+  ├── images/              # Sample images for testing  
+  └── README.md            # Project documentation  
+  ````
 
 
 ---
@@ -99,3 +99,4 @@ Manual classification of fruits and vegetables in domains like retail, agricultu
 - Deploy as a web app using Flask or mobile app using TensorFlow Lite  
 - Add audio output (text-to-speech) for accessibility  
 
+---
