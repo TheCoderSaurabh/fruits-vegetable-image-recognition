@@ -70,10 +70,10 @@ Manual classification of fruits and vegetables in domains like retail, agricultu
    pip install -r requirements.txt
 
 3. **Train the model**
-- Open trainFruit.ipynb in Jupyter or Colab and run all cells.
+  - Open trainFruit.ipynb in Jupyter or Colab and run all cells.
 
 4. **Test the model**
-- Use test.ipynb to load the saved model and make predictions on sample images.
+  - Use test.ipynb to load the saved model and make predictions on sample images.
 
 ---
 
